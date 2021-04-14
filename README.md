@@ -17,3 +17,10 @@ A three pages project made during the Scrimba's Frontend Develope Career Path.
 ## Links
 
 Live Site: (https://thesocialife.netlify.app/)
+
+## Built with
+
+-Semantic HTML5 markup
+-CSS custom properties
+-Flexbox
+-Mobile-first workflow
